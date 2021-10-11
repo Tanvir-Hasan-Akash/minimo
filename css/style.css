@@ -1,0 +1,436 @@
+/* font-family: 'Playfair Display', serif; */
+/* font-family: 'Ubuntu', sans-serif; */
+ 
+
+   
+
+
+
+
+   
+
+
+   
+*{
+    margin: 0%;
+    padding: 0%;
+    }
+    .logo {
+        width: 20%;
+    }
+    
+    header {
+        width: 90%;
+       
+        margin-left: 5%;
+        display: flex;
+        justify-content: space-between;
+        padding: 35px 0;
+    }
+    
+    nav {
+        width: 50%;
+    }
+    
+    nav ul {
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    nav ul li {
+        color: #626262;
+        text-transform: uppercase;
+        font-size: 20px;
+        font-family: 'Playfair Display', serif;
+    }
+    .banner{
+
+width: 90%;
+
+margin-left: 5%;
+
+}
+    .banner img{
+
+width: 100%;
+}
+.photodairy{
+
+width: 80%;
+
+margin-left: 10%;
+
+padding: 50px 0;
+
+}
+.photodairy h5{
+
+color: #b4ad9e;
+
+text-transform: uppercase;
+
+font-size: 16px;
+
+margin-bottom: 10px;
+
+font-family: 'Ubuntu', sans-serif;
+
+}
+.photodairy h1{
+
+font-family: 'Playfair Display', serif;
+
+color: #626262;
+
+font-size: 40px;
+
+margin-bottom: 20px;
+
+}
+.photodairy p{
+
+color: #626262;
+
+font-family: 'Playfair Display', serif;
+}
+.photodairy h6{
+    
+color: #b4ad9e;
+    
+text-transform: uppercase;
+    
+font-size: 16px;
+    
+margin-top: 24px;
+
+font-family: 'Ubuntu', sans-serif;
+}
+.lifestyle{
+
+width: 80%;
+
+margin-left: 10%;
+
+display: flex;
+
+flex-wrap: wrap;
+
+justify-content: space-between;
+}
+.lifestyle_one{
+
+width: 47%;
+
+margin-bottom: 50px;
+}
+.lifestyle_one img{
+
+width: 100%;
+}
+.lifestyle_one h5{
+
+color: #b4ad9e;
+
+text-transform: uppercase;
+
+font-size: 16px;
+
+margin-top: 24px;
+
+font-family: 'Ubuntu', sans-serif;
+}
+.lifestyle_one h1{
+
+/* font-family: 'Playfair Display', serif; */
+
+/* color: #626262; */
+
+/* font-size: 30px; */
+
+/* margin-bottom: 20px; */
+
+text-transform: capitalize;
+
+font-family: 'Playfair Display', serif;
+
+color: #626262;
+
+font-size: 35px;
+
+margin-bottom: 20px;
+}
+.lifestyle_one p{
+
+color: #626262;
+
+font-family: 'Playfair Display', serif;
+
+margin-bottom: 15px;
+}
+
+
+
+
+.lifestyle_two{
+
+
+
+width: 47%;
+
+margin-bottom: 50px;
+
+}
+    .lifestyle_two img{
+    
+    width: 100%;
+    }
+    .lifestyle_two h5{
+    
+    color: #b4ad9e;
+    
+    text-transform: uppercase;
+    
+    font-size: 16px;
+    
+    margin-top: 24px;
+    
+    font-family: 'Ubuntu', sans-serif;
+    }
+    .lifestyle_two h1{
+    
+    font-family: 'Playfair Display', serif;
+    
+    color: #626262;
+    
+    font-size: 30px;
+    
+    margin-bottom: 20px;
+    
+    text-transform: capitalize;
+    }
+    .lifestyle_two p{
+    
+    color: #626262;
+    
+    font-family: 'Playfair Display', serif;
+    
+    margin-bottom: 15px;
+    }
+
+
+    .lifestyle_three{
+
+
+
+width: 47%;
+
+margin-bottom: 50px;
+
+}
+        .lifestyle_three img{
+        
+        width: 100%;
+        }
+        .lifestyle_three h5{
+        
+        color: #b4ad9e;
+        
+        text-transform: uppercase;
+        
+        font-size: 16px;
+        
+        margin-top: 24px;
+        
+        font-family: 'Ubuntu', sans-serif;
+        }
+        .lifestyle_three h1{
+        
+        font-family: 'Playfair Display', serif;
+        
+        color: #626262;
+        
+        font-size: 30px;
+        
+        margin-bottom: 20px;
+        
+        text-transform: capitalize;
+        }
+        .lifestyle_three p{
+        
+        color: #626262;
+        
+        font-family: 'Playfair Display', serif;
+        
+        margin-bottom: 15px;
+        }
+
+
+
+
+        .lifestyle_four{
+
+
+
+width: 47%;
+
+margin-bottom: 50px;
+
+}
+            .lifestyle_four img{
+            
+            width: 100%;
+            }
+            .lifestyle_four h5{
+            
+            color: #b4ad9e;
+            
+            text-transform: uppercase;
+            
+            font-size: 16px;
+            
+            margin-top: 24px;
+            
+            font-family: 'Ubuntu', sans-serif;
+            }
+            .lifestyle_four h1{
+            
+            font-family: 'Playfair Display', serif;
+            
+            color: #626262;
+            
+            font-size: 30px;
+            
+            margin-bottom: 20px;
+            
+            text-transform: capitalize;
+            }
+            .lifestyle_four p{
+            
+            color: #626262;
+            
+            font-family: 'Playfair Display', serif;
+            
+            margin-bottom: 15px;
+            }
+
+    .newslatter{
+
+background: #f0f0f0;
+
+padding: 100px 0;
+margin-bottom: 50px;
+
+}
+    .news_content{
+
+width: 35%;
+
+margin: auto;
+
+font-size: 30px;
+
+color: #626262;
+
+}
+    .news_content h1{
+
+    }
+    .news_content input{
+        
+background: transparent;
+        
+border: none;
+        
+border-bottom: 1px solid black;
+        
+width: 100%;
+        
+margin-top: 50px;
+    }
+    .news_content input:focus{
+        outline: none;
+    }
+    .news_content input::placeholder{
+        color: #626262;
+    }
+   .loadmore{
+
+padding: 100px 0;
+
+text-align: center;
+
+}
+   .loadmore button{
+       
+background: transparent;
+       
+border: none;
+       
+border: 2px solid black;
+       
+padding: 20px 40px;
+       
+font-size: 25px;
+       
+color: #626262;
+   }
+   footer{
+
+background: #f0f0f0;
+
+padding: 30px 0;
+
+}
+   .footer_content{
+
+width: 80%;
+
+margin: auto;
+
+display: flex;
+
+justify-content: space-between;
+
+}
+.terms{
+    width: 25%;
+}
+
+   .terms ul{
+
+list-style: none;
+
+display: flex;
+
+justify-content: space-between;
+
+}
+   .terms ul li{
+
+color: #626262;
+
+text-transform: capitalize;
+
+}
+   .follow{
+
+width: 25%;
+
+}
+   .follow ul{
+
+list-style: none;
+
+display: flex;
+
+justify-content: space-between;
+
+}
+   .follow ul li{
+       
+   }
+
+
+   
+     /* Tanvir Hasan AKash */
